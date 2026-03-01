@@ -65,6 +65,14 @@ Academic and research demonstrations
 
 Agbozu Ebingiye Nelvin
 
+Email: nelvinebingiye@gmail.com
+
+GitHub: *https://github.com/Nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
+
+
+
 📄 License
 
 This project is intended for academic, research, and educational use.
